@@ -6,7 +6,8 @@
         "build": "next build",
         "start": "next start",
         "lint": "eslint .",
-        "typecheck": "tsc --noEmit"
+        "typecheck": "tsc --noEmit",
+        "test": "vitest run"
     },
     "dependencies": {
         "@fontsource-variable/dm-sans": "^5.3.0",
