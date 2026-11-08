@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "firstName": "Amel",
+    "lastName": "Ben Youssef",
+    "team": "Platform",
+    "role": "manager",
+    "managerId": null
+  },
+  {
+    "id": 2,
+    "firstName": "Bilel",
+    "lastName": "Khemiri",
+    "team": "Platform",
+    "role": "employee",
+    "managerId": 1
+  },
+  {
+    "id": 3,
+    "firstName": "Chaima",
+    "lastName": "Mansouri",
+    "team": "Platform",
+    "role": "employee",
+    "managerId": 1
+  },
+  {
+    "id": 4,
+    "firstName": "Dhia",
+    "lastName": "Ouertani",
+    "team": "Platform",
+    "role": "employee",
+    "managerId": 1
+  },
+  {
+    "id": 5,
+    "firstName": "Emna",
+    "lastName": "Rekik",
+    "team": "Product",
+    "role": "manager",
+    "managerId": null
+  },
+  {
+    "id": 6,
+    "firstName": "Fares",
+    "lastName": "Souissi",
+    "team": "Product",
+    "role": "employee",
+    "managerId": 5
+  },
+  {
+    "id": 7,
+    "firstName": "Ghada",
+    "lastName": "Tlili",
+    "team": "Product",
+    "role": "employee",
+    "managerId": 5
+  },
+  {
+    "id": 8,
+    "firstName": "Hichem",
+    "lastName": "Zouari",
+    "team": "Product",
+    "role": "employee",
+    "managerId": 5
+  },
+  {
+    "id": 9,
+    "firstName": "Imen",
+    "lastName": "Abid",
+    "team": "Support",
+    "role": "manager",
+    "managerId": null
+  },
+  {
+    "id": 10,
+    "firstName": "Jawher",
+    "lastName": "Bouraoui",
+    "team": "Support",
+    "role": "employee",
+    "managerId": 9
+  },
+  {
+    "id": 11,
+    "firstName": "Khouloud",
+    "lastName": "Dridi",
+    "team": "Support",
+    "role": "employee",
+    "managerId": 9
+  },
+  {
+    "id": 12,
+    "firstName": "Lotfi",
+    "lastName": "Ferchichi",
+    "team": "Support",
+    "role": "employee",
+    "managerId": 9
+  }
+]

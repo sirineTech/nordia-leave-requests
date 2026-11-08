@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "employeeId": 10,
+    "start": "2027-01-11",
+    "end": "2027-01-15",
+    "status": "approved",
+    "reason": "Family trip"
+  },
+  {
+    "id": 2,
+    "employeeId": 11,
+    "start": "2027-01-13",
+    "end": "2027-01-14",
+    "status": "approved",
+    "reason": ""
+  },
+  {
+    "id": 3,
+    "employeeId": 6,
+    "start": "2027-02-01",
+    "end": "2027-02-05",
+    "status": "approved",
+    "reason": "Winter break"
+  },
+  {
+    "id": 4,
+    "employeeId": 2,
+    "start": "2027-01-04",
+    "end": "2027-01-08",
+    "status": "approved",
+    "reason": ""
+  },
+  {
+    "id": 5,
+    "employeeId": 7,
+    "start": "2027-03-15",
+    "end": "2027-03-19",
+    "status": "approved",
+    "reason": "Moving"
+  }
+]

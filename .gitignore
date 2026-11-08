@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.local
+*.tsbuildinfo
+artifacts/
+playwright-report/
+test-results/
+.vitest/
+
+
+data/my-hydatis-data.json

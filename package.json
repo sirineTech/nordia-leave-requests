@@ -1,0 +1,46 @@
+{
+    "name": "nordia",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "eslint .",
+        "typecheck": "tsc --noEmit"
+    },
+    "dependencies": {
+        "@fontsource-variable/dm-sans": "^5.3.0",
+        "@fontsource-variable/manrope": "^5.3.0",
+        "@playwright/test": "^1.65.0",
+        "@testing-library/jest-dom": "^7.0.1",
+        "@testing-library/react": "^16.3.3",
+        "@types/supertest": "^7.2.1",
+        "axios": "^1.21.0",
+        "dotenv": "17.3.1",
+        "drizzle-orm": "0.45.2",
+        "jsdom": "^31.0.0",
+        "lucide-react": "^1.70.0",
+        "next": "^16.4.5",
+        "pg": "8.20.0",
+        "prettier": "^3.9.10",
+        "react": "19.2.6",
+        "react-dom": "19.2.6",
+        "supertest": "^7.3.2",
+        "tsx": "^4.23.15",
+        "vitest": "^5.1.0",
+        "zod": "^4.6.7"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "4.1.17",
+        "@types/node": "22.19.15",
+        "@types/pg": "8.18.0",
+        "@types/react": "19.2.14",
+        "@types/react-dom": "19.2.3",
+        "drizzle-kit": "0.31.10",
+        "eslint": "^10.14.0",
+        "eslint-config-next": "^16.4.5",
+        "postcss": "^8.5.32",
+        "tailwindcss": "4.1.17",
+        "typescript": "5.9.3"
+    }
+}
